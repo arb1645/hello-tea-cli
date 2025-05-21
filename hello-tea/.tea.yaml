@@ -1,0 +1,11 @@
+version: 1.0.0
+project:
+  id: hello-tea
+  name: hello-tea
+  description: CLI sederhana yang mencetak "Hello from Tea Protocol!"
+  repository: https://github.com/arb1645/hello-tea
+  packageManagers:
+    - npm
+maintainers:
+  - github: arb1645
+    role: author
