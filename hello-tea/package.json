@@ -1,0 +1,12 @@
+{
+  "name": "hello-tea-cli",
+  "version": "1.0.0",
+  "description": "CLI sederhana untuk mencetak pesan dari Tea Protocol.",
+  "main": "index.js",
+  "bin": {
+    "hello-tea": "./index.js"
+  },
+  "keywords": ["tea", "cli", "protocol"],
+  "author": "Nama Anda",
+  "license": "MIT"
+}
